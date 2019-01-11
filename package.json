@@ -1,0 +1,18 @@
+{
+    "name": "learn-webpack-v4",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "webpack --mode development",
+        "build": "webpack --mode production",
+        "watch": "webpack --watch --mode development"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "webpack": "^4.28.4",
+        "webpack-cli": "^3.2.1"
+    }
+}
