@@ -1,1 +1,1 @@
-console.log("Ollo World, this is entry point.");
+import App from "./App";
